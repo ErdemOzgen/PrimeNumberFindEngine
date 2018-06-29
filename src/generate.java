@@ -28,4 +28,3 @@ public class generate {
         return Main.primes;
 		}
 }
-//http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=2568658
