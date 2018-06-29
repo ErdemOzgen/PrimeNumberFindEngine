@@ -1,4 +1,17 @@
-
+/*
+ *       Filename:  Main.java 
+ *
+ *    Description: Using multicore feature to find prime numbers and test our code with JUnit...
+ *                  
+ *
+ *        Created:  06/29/2018
+ *       Revision:  none
+ *
+ *        @Author:  M.Erdem Ozgen
+ *       @Version:  1.0
+ *
+ * =====================================================================================
+ */
 import java.util.ArrayList;
 import java.util.Scanner;
 
